@@ -10,5 +10,5 @@
 - Open Movie Website Directory
 - In a terminal here in this Directory run the following command.
 ```
-    python entertainmetment.py
+    python entertainment_center.py
 ```
